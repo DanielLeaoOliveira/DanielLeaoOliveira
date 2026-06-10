@@ -1,12 +1,12 @@
 # Daniel Henrique - Desenvolvedor UI/UX 💻💡
 
-<div>
+
   
-[![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=DanielLeaoOliveira&show_icons=true&theme=tokyonight)](https://github.com/DanielLeaoOliveira/github-readme-stats)
+[![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=DanielLeaoOliveira&show_icons=true&theme=tokyonight)](https://github.com/DanielLeaoOliveira/github-readme-stats&height=180em)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DanielLeaoOliveira)](https://github.com/anuraghazra/github-readme-stats&layout=compact&theme=tokyonight)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DanielLeaoOliveira)](https://github.com/anuraghazra/github-readme-stats&layout=compact&theme=tokyonight&height=180em)
 
-</div>
+
 <img src="gojo_icon.jpg" width="80" height="80">
 
 <!--
