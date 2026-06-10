@@ -2,9 +2,9 @@
 
 
   
-[![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=DanielLeaoOliveira&show_icons=true&theme=tokyonight&height=180em)](https://github.com/DanielLeaoOliveira/github-readme-stats)
+[![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=DanielLeaoOliveira&show_icons=true&theme=tokyonight&height=180emI&margin-right=0)](https://github.com/DanielLeaoOliveira/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DanielLeaoOliveira&layout=compact&theme=tokyonight&height=180em)](https://github.com/DanielLeaoOliveira/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DanielLeaoOliveira&layout=compact&theme=tokyonight&height=180em&margin-left=0)](https://github.com/DanielLeaoOliveira/github-readme-stats)
 
 
 <img src="gojo_icon.jpg" width="80" height="80">
