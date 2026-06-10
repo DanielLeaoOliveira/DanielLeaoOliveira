@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-[![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=DanielLeaoOliveira)](https://github.com/DanielLeaoOliveira/github-readme-stats)
+[![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=DanielLeaoOliveira&theme=dark)](https://github.com/DanielLeaoOliveira/github-readme-stats)
 
 <!--
 
