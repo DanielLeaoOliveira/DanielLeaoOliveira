@@ -1,7 +1,7 @@
 # Daniel Henrique - Desenvolvedor UI/UX 💻💡
 <div>
   <img
-       src="https://github-readme-stats.vercel.app/api?username=DanielLeaoOliveira&layout=compac&theme=tokyonight" />
+       src="https://github-readme-stats.vercel.app/api?username=DanielLeaoOliveira&include_all_commits=true&layout=compac&theme=tokyonight" />
   <img
        src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielLeaoOliveira&layout=compact&theme=tokyonight" />
 </div>
