@@ -3,7 +3,7 @@
   <img height="180em"
        src="https://github-readme-stats.vercel.app/api?username=DanielLeaoOliveira&theme=tokyonight" />
 
-  <img height="180em"
+  <img height="140em"
        src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielLeaoOliveira&layout=compact&theme=tokyonight" />
 </p>
 <img src="gojo_icon.jpg" width="80" height="80">
