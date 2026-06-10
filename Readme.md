@@ -2,7 +2,7 @@
 
 
   
-[![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=DanielLeaoOliveira&show_icons=true&theme=tokyonight&height=180em)](https://github.com/DanielLeaoOliveira/github-readme-stats)
+[![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=DanielLeaoOliveira&showicons=true&theme=tokyonight&height=180em)](https://github.com/DanielLeaoOliveira/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DanielLeaoOliveira&layout=compact&theme=tokyonight&height=180em)](https://github.com/DanielLeaoOliveira/github-readme-stats)
 
