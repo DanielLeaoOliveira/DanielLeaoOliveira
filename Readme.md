@@ -2,6 +2,8 @@
 
 [![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=DanielLeaoOliveira&show_icons=true&theme=tokyonight)](https://github.com/DanielLeaoOliveira/github-readme-stats)
 
+<img src="gojo_icon.jpg">
+
 <!--
 \*\*DanielLeaoOliveira/DanielLeaoOliveira\*\* is a ✨ \_special\_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
