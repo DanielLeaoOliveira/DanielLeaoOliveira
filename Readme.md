@@ -1,5 +1,5 @@
-## Hi there 👋
-
+# Daniel Henrique 
+#### Desenvolvedor UI/UX
 [![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=DanielLeaoOliveira&show_icons=true&theme=tokyonight)](https://github.com/DanielLeaoOliveira/github-readme-stats)
 
 <!--
