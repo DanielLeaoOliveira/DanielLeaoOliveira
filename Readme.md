@@ -54,11 +54,11 @@
 
 <div align="center">
 
-<img height="180em"
-src="https://github-readme-stats.vercel.app/api?username=DanielLeaoOliveira&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-
-<img height="180em"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielLeaoOliveira&layout=compact&langs_count=8&theme=tokyonight"/>
+<img width="440em"
+src="https://github-readme-stats.vercel.app/api?username=DanielLeaoOliveira&show_icons=true&theme=tokyonight"/>
+<img width="440em"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielLeaoOliveira&layout=compact&theme=tokyonight"
+/>
 
 </div>
 
@@ -110,11 +110,11 @@ Projeto Full Stack para gerenciamento acadêmico utilizando Node.js e MySQL.
 <h2>📫 Contato</h2>
 
 <p align="center">
-  <a href="SEU_LINKEDIN">
+  <a href="www.linkedin.com/in/daniel-henrique-leão-de-oliveira-6020a0369">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
 
-  <a href="mailto:SEU_EMAIL">
+  <a href="mailto:daniboyoliver2006@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
 </p>
