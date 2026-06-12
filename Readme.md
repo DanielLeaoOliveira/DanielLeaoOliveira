@@ -1,6 +1,6 @@
 <!-- BANNER -->
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:1a1b27,100:7aa2f7&text=Daniel%20Henrique%20Leão%20de%20Oliveira&fontColor=ffffff&fontSize=45&animation=fadeIn" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:1a1b27,100:7aa2f7&text=Daniel%20Henrique%20Leão%20de%20Oliveira&fontColor=ffffff&fontSize=45&animation=fadeIn" />
 </div>
 <h2 align="center">
   Front-End Developer • UI/UX Designer • ADS Student
