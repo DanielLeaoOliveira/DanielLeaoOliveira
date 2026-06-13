@@ -21,7 +21,8 @@
 <p align="center">
   Apaixonado por desenvolvimento web, design de interfaces e experiência do usuário.
   Busco criar aplicações modernas, intuitivas e responsivas, combinando estética,
-  usabilidade e boas práticas de desenvolvimento.
+  usabilidade e boas práticas de desenvolvimento. Atualmente cursando Desenvolvimento
+  de Software Multiplataforma na Fatec Dom Evaristo Arns.
 </p>
 
 <p align="center">
