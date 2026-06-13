@@ -133,4 +133,8 @@ Projeto Full Stack para gerenciamento acadêmico utilizando Node.js e MySQL.
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:1a1b27,100:7aa2f7"/>
 </div>
 
-![Snake animation](https://github.com/DanielLeaoOliveira)
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake.svg">
+</picture>
