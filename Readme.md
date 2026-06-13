@@ -132,3 +132,5 @@ Projeto Full Stack para gerenciamento acadêmico utilizando Node.js e MySQL.
 <div align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:1a1b27,100:7aa2f7"/>
 </div>
+
+![Snake animation](https://github.com/DanielLeaoOliveira)
