@@ -41,10 +41,10 @@
 <div align="center">
 
 <a href="https://git.io/streak-stats">
-<img height="180em" src="https://streak-stats.demolab.com?user=DanielLeaoOliveira&theme=tokyonight" 
+<img height="200em" src="https://streak-stats.demolab.com?user=DanielLeaoOliveira&theme=tokyonight" 
 alt="GitHub Streak"/>
 </a>
-<img height="180em"
+<img height="200em"
 src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielLeaoOliveira&theme=tokyonight&layout=compact&count_private=true"/>
 
 <hr>
