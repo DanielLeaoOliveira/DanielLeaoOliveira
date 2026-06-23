@@ -47,6 +47,8 @@ alt="GitHub Streak"/>
 <img height="200em"
 src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielLeaoOliveira&theme=tokyonight&layout=compact&count_private=true"/>
 
+</div>
+
 <hr>
 
 <h2>📌 Projetos em Destaque</h2>
