@@ -40,8 +40,10 @@
 
 <div align="center">
 
-<img height="180em"
-src="https://github-readme-stats.vercel.app/api?username=DanielLeaoOliveira&show_icons=true&theme=tokyonight&v=999"/>
+<a href="https://git.io/streak-stats">
+<img height="180em" src="https://streak-stats.demolab.com?user=DanielLeaoOliveira&theme=tokyonight" 
+alt="GitHub Streak"/>
+</a>
 <img height="180em"
 src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielLeaoOliveira&theme=tokyonight&layout=compact&count_private=true"/>
 
