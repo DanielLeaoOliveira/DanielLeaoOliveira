@@ -41,10 +41,9 @@
 <div align="center">
 
 <img height="180em"
-src="https://github-readme-stats.vercel.app/api?username=DanielLeaoOliveira&show_icons=true&theme=tokyonight"/>
+src="https://github-readme-stats.vercel.app/api?username=DanielLeaoOliveira&show_icons=true&theme=tokyonight&count_private=true"/>
 <img height="180em"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielLeaoOliveira&theme=tokyonight&layout=compact"/>
-</div>
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielLeaoOliveira&theme=tokyonight&layout=compact&count_private=true"/>
 
 <hr>
 
