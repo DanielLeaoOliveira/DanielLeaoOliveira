@@ -51,39 +51,14 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielLeaoOl
 
 <hr>
 
-<h2>📌 Projetos em Destaque</h2>
-
-<table>
-<tr>
-<td width="50%">
-
-### 🐾 Studio Patty Leão
-
-Sistema institucional focado em UX/UI, apresentação de serviços e fortalecimento da presença digital.
-
-</td>
-
-<td width="50%">
-
-### 🎓 Sistema Acadêmico
-
-Projeto acadêmico Full Stack para gerenciamento de dados institucionais utilizando Node.js e MySQL.
-
-</td>
-</tr>
-</table>
-
-<hr>
-
 <h2>📚 Atualmente Estudando</h2>
 
 ```txt
-📖 Arquitetura de Software
-📖 Engenharia de Software
+📖 React.js
 📖 Node.js
 📖 UX/UI Design
-📖 Estruturas de Dados
-📖 Banco de Dados
+📖 Express
+📖 Git e Github
 ````
 
 <hr>
