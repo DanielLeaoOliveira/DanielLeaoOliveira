@@ -2,7 +2,9 @@
   <img src="https://readme-typing-svg.demolab.com?font=Bungee&size=24&pause=1000&color=7AA2F7&center=true&vCenter=true&width=800&lines=Front-End+Developer;React+Developer;DSM+Student;Building+Modern+Web+Experiences" />
 </p>
 
-
+<div align="center">
+  <img width="100%" src="./banner.gif">
+</div>
 
 <br>
 
