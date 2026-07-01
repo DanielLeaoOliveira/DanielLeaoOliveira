@@ -1,46 +1,49 @@
 <p align="center">
-  <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
   <a href="https://github.com/DanielLeaoOliveira/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=-%20Seja%20Bem-vindo(a)%20ao%20meu%20perfil!%20-&font=Inter&Code&center=true&width=540&height=45&color=FFFFFF&vCenter=true&pause=1000&size=22" /></a>
+    <img src="https://readme-typing-svg.demolab.com/?lines=-%20Seja%20Bem-vindo(a)%20ao%20meu%20perfil!%20-&font=Bungee&center=true&width=840&height=45&color=FFFFFF&vCenter=true&pause=1000&size=30" />
+  </a>
 </p>
+
 <div align="center">
   <img width="100%" src="./banner.gif">
 </div>
+
 <h2 align="center">
-  Front-End Developer • UI/UX Designer • DSM Student
+  Front-End Developer • React Developer • DSM Student
 </h2>
 
-<p align="center">
-  Apaixonado por desenvolvimento web, design de interfaces e experiência do usuário.
-  Busco criar aplicações modernas, intuitivas e responsivas, combinando estética,
-  usabilidade e boas práticas de desenvolvimento. Atualmente cursando Desenvolvimento
-  de Software Multiplataforma (DSM) na Fatec Dom Evaristo Arns.
+<p align="justify">
+  Desenvolvedor Front-End em formação, com foco na criação de interfaces modernas,
+  responsivas e acessíveis. Atualmente curso Desenvolvimento de Software Multiplataforma
+  (DSM) na Fatec Dom Evaristo Arns e desenvolvo projetos utilizando React, TypeScript,
+  Node.js e bancos de dados relacionais.
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=DanielLeaoOliveira&label=Visualizações&color=7aa2f7&style=for-the-badge" />
-</p>
 
-<hr>
 
-<h3 align="center">Tecnologias</h3>
+---
+
+<h2 align="center">🛠️ Tecnologias</h2>
+
 <div align="center">
   <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg">
   <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg">
   <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg">
   <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg">
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg">
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg">
   <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg">
   <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg">
-  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg">
-  <img height="40" src="./affinity_canva_logo.jfif">
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg">
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg">
 </div>
-<hr>
 
-<h2>📊 Estatísticas GitHub</h2>
+---
+
+<h2 align="center">📊 Estatísticas GitHub</h2>
 
 <div align="center">
 
-<a href="https://git.io/streak-stats">
 <img height="180em" src="https://streak-stats.demolab.com?user=DanielLeaoOliveira&theme=tokyonight&count_private=true&v=2" 
 alt="GitHub Streak"/>
 </a>
@@ -49,28 +52,32 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielLeaoOl
 
 </div>
 
-<hr>
+---
 
-<h2>📚 Atualmente Estudando</h2>
+<h2 align="center">🚀 Projetos em Destaque</h2>
 
-```txt
-📖 React.js
-📖 Node.js
-📖 UX/UI Design
-📖 Express
-📖 Git e Github
-````
+<div align="center">
 
-<hr>
+| Projeto                   | Tecnologias                    | Acesso                   |
+| ------------------------- | ------------------------------ | ------------------------ |
+| 💼 **Portfólio Pessoal**  | React • TypeScript • Bootstrap | [About-me-React](https://github.com/DanielLeaoOliveira/About-me-React) |
+| 📋 **Studio Patty Leão** | EJS • NodeJS • MongoDB        | [studio-patty-leao-platform](https://github.com/DanielLeaoOliveira/studio-patty-leao-platform) |
 
-<!-- FOOTER -->
+</div>
+
+<p align="center">
+  <i>Mais projetos disponíveis na aba de repositórios.</i>
+</p>
+
+---
+
 <picture align="center">
   <source
     media="(prefers-color-scheme: dark)"
     srcset="https://raw.githubusercontent.com/DanielLeaoOliveira/DanielLeaoOliveira/output/github-contribution-grid-snake-dark.svg">
 
 <source
- media="(prefers-color-scheme: dark)"
+ media="(prefers-color-scheme: light)"
  srcset="https://raw.githubusercontent.com/DanielLeaoOliveira/DanielLeaoOliveira/output/github-contribution-grid-snake-dark.svg">
 
 <img
@@ -78,7 +85,9 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielLeaoOl
  alt="github contribution grid snake animation"
  src="https://raw.githubusercontent.com/DanielLeaoOliveira/DanielLeaoOliveira/output/github-contribution-grid-snake-dark.svg"> </picture>
 
-<h2>📫 Contato</h2>
+---
+
+<h2 align="center">📫 Contato</h2>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/daniel-henrique-le%C3%A3o-de-oliveira-6020a0369">
@@ -90,12 +99,8 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielLeaoOl
   </a>
 </p>
 
-<br>
-
 <div align="center">
-
-### ⚡ Transformando ideias em experiências digitais.
-
+  <h3>⚡ Transformando ideias em experiências digitais.</h3>
 </div>
 
 <div align="center">
