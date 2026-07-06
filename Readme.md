@@ -46,24 +46,6 @@ Front-End Developer • React Developer • DSM Student
 
 <br>
 
-## 📊 GitHub Dashboard
-
-<div align="center">
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielLeaoOliveira&theme=tokyonight&layout=compact&count_private=true&v=2"/>
-<img height="170em"
-src="https://streak-stats.demolab.com?user=DanielLeaoOliveira&theme=tokyonight&v=2"/>
-
-</div>
-
-<div align="center">
-
-<img width="90%"
-src="https://github-readme-activity-graph.vercel.app/graph?username=DanielLeaoOliveira&theme=tokyo-night&v=2"/>
-
-</div>
-
-<br>
-
 <br>
 
 ## 🚀 Featured Projects
