@@ -9,9 +9,6 @@
 <br>
 
 <div align="center">
-
-<h1 align="center">👋 Daniel Henrique</h1>
-
 <h3 align="center">
 Front-End Developer • React Developer • DSM Student
 </h3>
